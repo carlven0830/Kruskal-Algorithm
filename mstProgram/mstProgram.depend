@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1649577731 source:d:\sem 1 2022\adaa\mstprogram\kruskal.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<cmath>
+
+1649304317 source:d:\sem 1 2022\adaa\mstprogram\map.cpp
+	<iostream>
+
