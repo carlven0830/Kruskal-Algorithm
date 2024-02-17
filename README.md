@@ -1,4 +1,4 @@
-This is a Kruskal's Algorithm using C++.
+This is a Minimum Spanning Tree using C++.
 
 What is Kruskal's Algorithm?
 Kruskal's algorithm is a popular algorithm used in computer science for finding the minimum spanning tree in a graph.
